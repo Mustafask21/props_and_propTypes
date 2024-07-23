@@ -1,0 +1,8 @@
+.container{
+
+ text-align: center;
+ background-color: rgb(20, 146, 178);
+ width: 30%;
+ border: 1px solid white;
+ float: left;
+}
